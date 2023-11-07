@@ -3,7 +3,7 @@ while True:
     A = float(input("Ingrese el valor de A: "))
     B = float(input("Ingrese el valor de B: "))
 
-    # Mostrar el menú de operaciones
+    # Mostrar  la lista  de operaciones
     print("Seleccione una operación:")
     print("1. Suma A+B")
     print("2. Resta A-B")
