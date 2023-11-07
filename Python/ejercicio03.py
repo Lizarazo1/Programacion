@@ -1,4 +1,4 @@
-a = str (input("escriba sus nombres completo :"))
+a = str (input("escriba sus nombres completo por favor :"))
 b = str (input("escriba sus apellidos completo :"))
 c = str (input("escriba su profesion :"))
 d = int(input("el año en que nacio :"))
