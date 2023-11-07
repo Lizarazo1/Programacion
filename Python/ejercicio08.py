@@ -1,4 +1,4 @@
-# Función para calcular el área de un polígono regular
+# Función para calcular el área de un polígono 
 def calcular_area_poligono(lado, lados):
     if lados == 3:
         # Triángulo
