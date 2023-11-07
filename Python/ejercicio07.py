@@ -1,4 +1,4 @@
-# Solicitar al usuario el número de repeticiones
+# Solicitar al usuario el cantidad de los numeros  de repeticiones
 N = int(input("Ingrese el número de repeticiones: "))
 
 # Solicitar al usuario un segundo dato entero
