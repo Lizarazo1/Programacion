@@ -1,4 +1,4 @@
-# Declaracion de variable con diferentes tipos de datos 
+# Declaracion de variable con diferentes tipos de los datos establecidos
 Nombre="Juan"
 Edad=17
 Altura=1.80
