@@ -7,6 +7,6 @@ aux1 = int(input("Ingrese un segundo dato entero: "))
 # Iniciar el ciclo while
 contador = 0
 while contador < N:
-    valor = aux1 ** N
+    valor = aux1 ** contador
     print(f"Valor en la iteración {contador + 1}: {valor}")
     contador += 1
