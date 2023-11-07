@@ -1,6 +1,4 @@
 import math
-
-
 A = float (input("ingrese valor del voltage RMS ")) 
 B = float (input("ingrese valor de la frecuencia de trabajo  ")) 
 C = float (input("ingrese valor de la resistencia  ")) 
